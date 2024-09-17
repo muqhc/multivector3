@@ -1,2 +1,2 @@
 # multivector3
-3D multivector class implementation in kotlin programming language
+simple 3D multivector class implementation in kotlin programming language
